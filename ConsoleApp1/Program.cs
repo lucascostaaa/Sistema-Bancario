@@ -44,7 +44,6 @@ namespace ConsoleApp1
                 Console.WriteLine(conta);
             }
 
-            // Mantém o console aberto até que o usuário pressione "Enter"
             Console.WriteLine("Pressione Enter para sair...");
             Console.ReadLine();
         }
